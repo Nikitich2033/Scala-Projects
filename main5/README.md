@@ -17,7 +17,7 @@ Here's the projects in each file:
   - Implement of shunting yard algorithm
   - Compute function that evaluates an input list in postfix notation
 - Postfix 2:
-  - Exteneted version of [Postfix](https://github.com/a-lleshi/scala-projects/blob/master/core3/postfix.scala) added power to (^)
+  - Exteneted version of Postfix added power to (^)
 
 ## Main 1:
 - Basic investment strategy using CSV data to predict investment
